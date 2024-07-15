@@ -1,0 +1,4 @@
+.parentContainer{
+    display: grid;
+    grid-template-columns: 55% 45%;
+}
